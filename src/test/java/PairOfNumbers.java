@@ -1,3 +1,4 @@
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
@@ -23,7 +24,7 @@ public class PairOfNumbers {
 
 
         //Act
-        /*List<Integer> actualResult = new ArrayList<>();
+        List<Integer> actualResult = new ArrayList<>();
         for(int i=0;i<arr.length;i++){
             for(int j=i+1;j<arr.length;j++){
                 int[] arr1 = new int[]{i, j};
@@ -39,14 +40,14 @@ public class PairOfNumbers {
                 else if(new CalculatorAbstract().getDivision(arr[i],arr[j]) == (float)key){
                     actualResult.add();
                 }
-            }*/
+            }
 
         }
         //Assert
-//        int i=0;
-//        for (String expected : suggestedOutput){
-//            System.out.println(expected);
-//            Assert.assertEquals(actualResult.get(i++),expected);
+        int i=0;
+        for (String expected : suggestedOutput){
+            System.out.println(expected);
+            Assert.assertEquals(actualResult.get(i++),expected);
 
 }
 
