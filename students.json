@@ -1,0 +1,72 @@
+{
+  "allStudents": [
+    {
+      "name": "Martin",
+      "age": 18
+    },
+    {
+      "name": "Sahil",
+      "age": 21
+    },
+    {
+      "name": "Krishna",
+      "age": 22
+    },
+    {
+      "name": "Aron",
+      "age": 25
+    },
+    {
+      "name": "Lelu",
+      "age": 24
+    },
+    {
+      "name": "Daria",
+      "age": 18
+    },
+    {
+      "name": "Max",
+      "age": 19
+    },
+    {
+      "name": "Simon",
+      "age": 19
+    },
+    {
+      "name": "Sascha",
+      "age": 18
+    },
+    {
+      "name": "Vincent",
+      "age": 23
+    },
+    {
+      "name": "Roli",
+      "age": 22
+    },
+    {
+      "name": "Herman",
+      "age": 20
+    },
+    {
+      "name": "Jeremy",
+      "age": 23
+    },
+    {
+      "name": "Luna",
+      "age": 24
+    },
+    {
+      "name": "Jessi",
+      "age": 26
+    },
+    {
+      "name": "Zack",
+      "age": 21
+    },
+    {
+      "name": "Alex",
+      "age": 18
+    }
+  ]
+}
